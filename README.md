@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About:
 Olá, Seja bem vindo ao meu perfil!<br>
 Estudante de Técnico em ADS<br>Habilidades em Front-end
 
